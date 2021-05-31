@@ -10,8 +10,9 @@ Required libraries in index.js
 ### Usage: 
 Use node app to create the team you manage with basic information
 
-### Contributing: 
-
+### Links: 
+Repo - https://github.com/rutter10/team-profile-generator2
+Walkthrough Video - https://drive.google.com/file/d/1Eww7b89-y4QNd1hLdQBFZpVG-L9ZnfJx/view
 
 ### Licensing:
 MIT Licensing    
